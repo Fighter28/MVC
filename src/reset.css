@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  top: 0;
+  box-sizing: border-box;
+}
+ol,li{
+  list-style: none;
+}
+*::before,*::after{
+    box-sizing: border-box;
+}
